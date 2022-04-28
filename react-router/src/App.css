@@ -1,0 +1,15 @@
+.App  {
+  display: flex;
+  align-content: center;
+  text-align: center;
+  position:absolute;
+  height: auto;
+  width:100%;
+  max-width:100%;
+  font: 12px Tahoma, Geneva, sans-serif;
+  line-height: normal;
+  padding-top:30px;
+  color: #a8a89c;
+  background: #000 ;
+  top: 0;
+}
